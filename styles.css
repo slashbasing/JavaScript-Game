@@ -1,0 +1,21 @@
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+#container input[type=button]{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: rgb(212, 12, 12);
+    border-radius: 20px;
+}
+
+#start_button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
